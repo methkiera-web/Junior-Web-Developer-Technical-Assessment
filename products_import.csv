@@ -1,0 +1,5 @@
+Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,In stock?,Stock,Regular price,Categories,Images
+simple,RT-001,Classic canvas tote,1,1,visible,Small-batch canvas tote bag,Durable small-batch canvas tote bag built from honest materials for everyday carry.,1,,R249,00,Bags,https://picsum.photos/seed/tote1/800/800
+simple,RT-002,Ceramic coffee mug,1,1,visible,Handcrafted ceramic mug,Ceramic coffee mug made for daily use, keeping beverages at temperature.,1,,R129,00,Homeware,https://picsum.photos/seed/mug1/800/800
+simple,RT-003,Vanilla soy candle,1,1,visible,Hand-poured soy wax candle,Hand-poured vanilla soy candle in a reusable glass container.,1,,R179,00,Homeware,https://picsum.photos/seed/candle1/800/800
+simple,RT-004,Leather slim wallet,1,1,visible,Genuine leather cardholder,Slim leather wallet designed for minimalist daily carry.,1,,R349,00,Accessories,https://picsum.photos/seed/wallet1/800/800
